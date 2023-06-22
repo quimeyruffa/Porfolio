@@ -1,8 +1,9 @@
 import React from "react";
 
 const Testimonials = ({ data }) => {
+  console.log(data)
   if (data) {
-    var testimonials = data.testimonials.map(function (testimonials) {
+    var testimonials = data?.testimonials?.map(function (testimonials) {
       return (
         <li key={testimonials.user}>
           <blockquote>

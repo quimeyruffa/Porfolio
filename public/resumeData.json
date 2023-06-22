@@ -51,15 +51,21 @@
     ],
     "work": [
       {
+        "company": "Extendeal",
+        "title": "Software Development",
+        "years": "Jun 2022 - Present"
+      },
+      {
         "company": "Brand-it Media",
         "title": "Software Development",
         "years": "Jun 2021 - Present"
       },
       {
-        "company": "Extendeal",
+        "company": "Mercado Home",
         "title": "Software Development",
-        "years": "Jun 2022 - Present"
+        "years": "Jan 2020 - Sep 2020"
       }
+    
     ],
     "skills": [
       {
@@ -106,5 +112,17 @@
       }
   
     ]
-  }
+  },
+  "testimonials":[
+    {
+      "text": "Quimey es una programadora muy creativa y con grandes habilidades en fullstack y siempre dispuesta a aprender algo nuevo para mejorar",
+      "user": "Mateo Roizman"
+    },
+    {
+      "text": "Quimey es una excelente persona, comprometida y dedicada en su trabajo. Excelente compañera de equipo y con muy buenas habilidades de desarrollo.",
+      "user": "Santiago Nicolas Hidalgo"
+    }
+  ]
+
+  
 }

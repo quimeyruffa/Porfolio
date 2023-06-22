@@ -14,6 +14,7 @@ const App = () => {
   const [resumeData, setResumeData] = useState({});
 
   useEffect(() => {
+    
     fetch("/resumeData.json")
       .then((res) => res.json())
       .then((data) => {
@@ -26,7 +27,8 @@ const App = () => {
       <Header data={resumeData.main} />
       <About data={resumeData.main} />
       <Resume data={resumeData.resume} />
-      {/* <Portfolio data={resumeData.portfolio} /> */}
+      <Portfolio data={resumeData.portfolio} />
+      <Testimonials data={resumeData}/>
       <Contact data={resumeData.main} />
       <Footer data={resumeData.main} />
     </div>
