@@ -31,15 +31,21 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "Universidad Argentina De la Empresa - UADE",
-        "degree": "Full Stack Development",
+        "school": "Full Stack Development",
+        "degree": "Universidad Argentina De la Empresa - UADE",
         "graduated": "May 2020 - Nov 2020",
         "description": ""
       },
       {
-        "school": "Universidad Argentina De la Empresa - UADE",
-        "degree": "IT Engineer",
+        "school": "IT Engineer",
+        "degree": "Universidad Argentina De la Empresa - UADE",
         "graduated": "July 2019 - Present",
+        "description": ""
+      },
+      {
+        "school": "CCNA: Introduction to Networks",
+        "degree": "CISCO",
+        "graduated": "July 2022",
         "description": ""
       }
     ],
@@ -48,6 +54,11 @@
         "company": "Brand-it Media",
         "title": "Software Development",
         "years": "Jun 2021 - Present"
+      },
+      {
+        "company": "Extendeal",
+        "title": "Software Development",
+        "years": "Jun 2022 - Present"
       }
     ],
     "skills": [
@@ -57,15 +68,31 @@
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "100%"
       },
       {
         "name": "JavaScript",
-        "level": "99%"
+        "level": "100%"
       },
       {
         "name": "Web Development",
-        "level": "95%"
+        "level": "100%"
+      },
+      {
+        "name":"HTML",
+        "level":"100%"
+      },
+      {
+        "name":"CSS",
+        "level":"100%"
+      },
+      {
+        "name":"Unit Testing",
+        "level":"100%"
+      },
+      {
+        "name":"Elastic Search",
+        "level":"100%"
       }
     ]
   },
